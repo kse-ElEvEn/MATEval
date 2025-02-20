@@ -78,21 +78,23 @@ MATEval is the first multi-agent framework that simulates **human-like collabora
 
 
 ## 📜 Citation
+
+If you find our paper and resource useful in your research, please consider giving a star ⭐ and citation 📝.
 ```bibtex
 @inproceedings{li2024mateval,
-  title={MATEval: A Multi-agent Discussion Framework for Advancing Open-Ended Text Evaluation},
+  title={MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation},
   author={Li, Yu and Zhang, Shenyu and Wu, Rui and Huang, Xiutian and Chen, Yongrui and Xu, Wenhao and Qi, Guilin and Min, Dehai},
-  booktitle={Proceedings of the 29th International Conference on Database Systems for Advanced Applications},
-  year={2024}
+  booktitle={International Conference on Database Systems for Advanced Applications},
+  pages={415--426},
+  year={2024},
+  organization={Springer}
 }
 ```
 
-## ☎️ Contact
-For business collaborations or technical inquiries:  
-📧 Email: [mateval-support@antgroup.com](mailto:mateval-support@antgroup.com)  
-🌐 WeChat Official Account: Ant-MATEval
+## 📧 Contact
+For technical inquiries:  
+[Yu Li](mailto:yuli_11@seu.edu.cn) - Southeast University  
 
 ---
 
-**Open Source ≠ Unsupported** - This project is actively maintained by Ant Group's NLP Research Team
-```
+**[⬆ Back to Top](#makged-multi-agent-framework-for-knowledge-graph-error-detection)**
