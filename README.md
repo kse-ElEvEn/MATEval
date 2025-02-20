@@ -1,3 +1,4 @@
+<a name="readme"></a>
 # MATEval: Multi-Agent Text Evaluation Framework
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -138,4 +139,5 @@ For technical inquiries:
 
 ---
 
-**[⬆ Back to Top](#makged-multi-agent-framework-for-knowledge-graph-error-detection)**
+[<kbd>▲</kbd> Back to Top](#readme)
+
